@@ -1,0 +1,141 @@
+[{
+  "id": 1,
+  "name": "Mashrafe Mortaza",
+  "category": "Bowler",
+  "matchPlayed": 312,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg",
+  "price": 8000000
+}, {
+  "id": 2,
+  "name": "Shakib Al Hasan",
+  "category": "All-Rounder",
+  "matchPlayed": 342,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+  "price": 7500000
+}, {
+  "id": 3,
+  "name": "Mushfiqur Rahim",
+  "category": "WK-Batsman",
+  "matchPlayed": 379,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
+  "price": 7000000
+}, {
+  "id": 4,
+  "name": "Tamim Iqbal",
+  "category": "Batsman",
+  "matchPlayed": 350,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg",
+  "price": 6500000
+}, {
+  "id": 5,
+  "name": "Mahmudullah",
+  "category": "All-Rounder",
+  "matchPlayed": 327,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+  "price": 6200000
+}, {
+  "id": 6,
+  "name": "Mustafizur Rahman",
+  "category": "Bowler",
+  "matchPlayed": 116,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
+  "price": 6000000
+}, {
+  "id": 7,
+  "name": "Sabbir Rahman",
+  "category": "Batsman",
+  "matchPlayed": 121,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg",
+  "price": 5500000
+}, {
+  "id": 8,
+  "name": "Mohammad Mithun",
+  "category": "WK-Batsman",
+  "matchPlayed": 52,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170918/mohammad-mithun.jpg",
+  "price": 5000000
+}, {
+  "id": 9,
+  "name": "Rubel Hossain",
+  "category": "Bowler",
+  "matchPlayed": 157,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg",
+  "price": 5000000
+}, {
+  "id": 10,
+  "name": "Taskin Ahmed",
+  "category": "Bowler",
+  "matchPlayed": 57,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156212/taskin-ahmed.jpg",
+  "price": 4500000
+}, {
+  "id": 11,
+  "name": "Shahriar Nafees",
+  "category": "Batsman",
+  "matchPlayed": 100,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303156.jpg",
+  "price": 4300000
+}, {
+  "id": 12,
+  "name": "Soumya Sarkar",
+  "category": "Batsman",
+  "matchPlayed": 124,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg",
+  "price": 4000000
+}, {
+  "id": 13,
+  "name": "Mohammad Saifuddin",
+  "category": "All-Rounder",
+  "matchPlayed": 38,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg",
+  "price": 3500000
+}, {
+  "id": 14,
+  "name": "Mosaddek Hossain",
+  "category": "All-Rounder",
+  "matchPlayed": 52,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170909/mosaddek-hossain.jpg",
+  "price": 3300000
+}, {
+  "id": 15,
+  "name": "Mehidy Hasan",
+  "category": "All-Rounder",
+  "matchPlayed": 81,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg",
+  "price": 3200000
+}, {
+  "id": 16,
+  "name": "Liton Das",
+  "category": "WK-Batsman",
+  "matchPlayed": 90,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+  "price": 3000000
+}, {
+  "id": 17,
+  "name": "Abu Jayed",
+  "category": "Bowler",
+  "matchPlayed": 15,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170927/abu-jayed.jpg",
+  "price": 2700000
+}, {
+  "id": 18,
+  "name": "Al-Amin Hossain",
+  "category": "Bowler",
+  "matchPlayed": 53,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156217/al-amin-hossain.jpg",
+  "price": 2500000
+}, {
+  "id": 19,
+  "name": "Mohammad Ashraful",
+  "category": "Batsman",
+  "matchPlayed": 262,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155769/mohammad-ashraful.jpg",
+  "price": 2300000
+}, {
+  "id": 20,
+  "name": "Habibul Bashar",
+  "category": "Batsman",
+  "matchPlayed": 161,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155467/habibul-bashar.jpg",
+  "price": 8473867
+}]
